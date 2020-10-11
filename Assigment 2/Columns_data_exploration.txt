@@ -1,0 +1,23 @@
+# Original columns
+ [1] "Date"                     "Headline"                 "URL"                     
+ [4] "Opening Text"             "Hit Sentence"             "Source"                  
+ [7] "Influencer"               "Country"                  "Subregion"               
+[10] "Language"                 "Reach"                    "Desktop Reach"           
+[13] "Mobile Reach"             "Twitter Social Echo"      "Facebook Social Echo"    
+[16] "Reddit Social Echo"       "National Viewership"      "Engagement"              
+[19] "AVE"                      "Sentiment"                "Key Phrases"             
+[22] "Input Name"               "Keywords"                 "Twitter Authority"       
+[25] "Tweet Id"                 "Twitter Id"               "Twitter Client"          
+[28] "Twitter Screen Name"      "Twitter User Profile Url" "Twitter Bio"             
+[31] "Twitter Followers"        "Twitter Following"        "Alternate Date Format"   
+[34] "Time"                     "State"                    "City"                    
+[37] "Body"                     "Document Tags"		   "Hashtag"
+[40] "type"           
+
+
+# Subset of Columns
+
+[1]  "Influencer","Language","Reach","Twitter Social Echo","National Viewership", 
+[5]  "Engagement", "AVE","Sentiment","Twitter Authority","Tweet Id", 
+[10] "Twitter Client","Twitter Followers", "Twitter Following", "Alternate Date Format","Time",
+[15] "State","City","Body", "Hashtag", "type"
